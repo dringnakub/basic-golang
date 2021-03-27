@@ -23,3 +23,5 @@ Hot reload
 ```
 npx go-mon main.go
 ```
+
+## day 2
